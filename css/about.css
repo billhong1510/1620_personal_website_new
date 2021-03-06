@@ -1,0 +1,33 @@
+/* Matches to ALL <h1> elements */
+/* Matches to ALL <h1> elements */
+h1{
+  color: #334259;
+}
+body{
+  background-color: #E5E5DC;
+}
+
+main {
+  padding: 10px;
+  max-width: 500px;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+}
+p{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 25px;
+}
+nav {
+  position: sticky;
+  top: 0;
+}
+a:hover {
+  color: #bf616a;
+  text-decoration: underline #bf616a;
+} 
+img {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
